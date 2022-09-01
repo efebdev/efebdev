@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
-
+```csharp
+efebdev@github:~$ ./welcome.sh
+```
+```csharp
+efebdev@github:~$ ./about.sh
+-----------------------------------------------------------------
+part time backend developer part time student. ❤
+-----------------------------------------------------------------
+```
+```csharp
+efebdev@github:~$ ./contact.sh
+>>mefeyakisan@icloud.com
+```
+#
 <h3 align="center">Contact me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/muhammetefeyakisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammetefeyakisan" height="30" width="40" /></a>
